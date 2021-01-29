@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to jline_AGN_fitting's documentation!
+Welcome to AGN_code's documentation!
 =============================================
 
 You should put a description of your module here, what the point is, maybe
@@ -15,7 +15,7 @@ Scripts
 .. toctree::
   :maxdepth: 1
 
-  fit_AGN_spectra
+  AGN_code
 
 .. toctree::
    :maxdepth: 2
