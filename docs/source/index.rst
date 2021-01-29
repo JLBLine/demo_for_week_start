@@ -15,7 +15,7 @@ Scripts
 .. toctree::
   :maxdepth: 1
 
-  AGN_code
+  fit_AGN_spectra
 
 .. toctree::
    :maxdepth: 2
